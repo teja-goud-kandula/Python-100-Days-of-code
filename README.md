@@ -14,3 +14,8 @@ BMI Calculator
 Leap Year
 
 Pizza Order
+
+
+
+## Extra resources 
+[ASCII Art](https://ascii.co.uk/art)
