@@ -36,7 +36,19 @@ Random module
 
 Rock paper scissors
 
+## Day 5
 
+For loops
+
+For loop range 
+
+Adding numbers in a list
+
+Highest value in a list
+
+FizzBuzz program
+
+Password generator
 
 
 
